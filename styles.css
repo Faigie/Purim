@@ -1,0 +1,35 @@
+body {
+	font-family: roboto, sans-serif;
+	background-color: #e6e6e6;;
+	background-image: url(arches.png);
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.message {
+	color: rgb(255, 123, 0);
+	text-align: center;
+}
+
+.logo {
+	margin-top: 30px;
+	width: 70%;
+	aspect-ratio: 2/1;
+}
+
+.little {
+	font-size: 22px;
+	margin-top: 5px;
+}
+
+.one {
+	margin-bottom: 0;
+}
+
+.two {
+	margin-top: 0;
+}
