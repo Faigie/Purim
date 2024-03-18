@@ -48,3 +48,10 @@ html, body {
 	height: 100%;
 	vertical-align: middle;
 }
+
+@media screen and (min-width: 800px) {
+	.logo {
+		width: 30%;
+		aspect-ratio: 2/1;
+	}
+}
